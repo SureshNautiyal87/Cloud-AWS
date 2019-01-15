@@ -1,7 +1,7 @@
-# CloudenabledWebApp
-CloudenabledWebApp for maven web app
+# ManipalProlearnWebApp
+ManipalProlearnWebApp for maven web app
 
-## By: Cloudenabled
+## By: ManipalProlearn
 Avantus trainign demo
 # Pre-reques:
 ---------------
