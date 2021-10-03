@@ -12,7 +12,7 @@ mysql_database_host = 'MYSQL_DATABASE_HOST' in os.environ and os.environ['MYSQL_
 app.config['MYSQL_DATABASE_USER'] = 'admin'
 app.config['MYSQL_DATABASE_PASSWORD'] = 'Suresh87'
 app.config['MYSQL_DATABASE_DB'] = 'employee_db'
-app.config['MYSQL_DATABASE_HOST'] = 'capstone-rds-1.cluster-cptxstk1kgpp.us-east-1.rds.amazonaws.com'
+app.config['MYSQL_DATABASE_HOST'] = 'capstone-rds-1.cluster-ro-cptxstk1kgpp.us-east-1.rds.amazonaws.com'
 mysql.init_app(app)
 
 conn = mysql.connect()
