@@ -3,7 +3,7 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/`employee_db` /*!40100 DEFAULT CHARACTER
 USE `employee_db`;
 
 DROP TABLE IF EXISTS `employees`;
-d
+
 CREATE TABLE `employees` (
   `name` varchar(50) NOT NULL
 );
